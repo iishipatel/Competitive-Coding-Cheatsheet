@@ -1,2 +1,2 @@
 # Competitive-Coding-Cheatsheet
-Basic Structure of Common Data Structures and Implementation of Commmon Alogorithms
+Basic Structure of Common Data Structures and Implementation of Commmon Algorithms
